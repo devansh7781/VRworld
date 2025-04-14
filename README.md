@@ -1,2 +1,2 @@
 # React + Vite# VRworld
-DEPLOYMENT:vrworlddev.netlify.app
+vrworlddev.netlify.app
