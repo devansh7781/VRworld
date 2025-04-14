@@ -1,3 +1,3 @@
- vrworlddev.netlify.app 
+https://vrworlddev.netlify.app/
 # React + Vite# VRworld
 
